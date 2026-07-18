@@ -1,11 +1,25 @@
-<script setup></script>
+<script setup>
+import Header from './components/layout/Header.vue'
+import Footer from './components/layout/Footer.vue'
+import Hero from './components/sections/Hero.vue'
+import About from './components/sections/About.vue'
+import Experience from './components/sections/Experience.vue'
+import Skills from './components/sections/Skills.vue'
+import Projects from './components/sections/Projects.vue'
+import Contact from './components/sections/Contact.vue'
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <div class="flex min-h-screen flex-col">
+    <Header />
+    <main class="grow">
+      <Hero />
+      <About />
+      <Experience />
+      <Skills />
+      <Projects />
+      <Contact />
+    </main>
+    <Footer />
+  </div>
 </template>
-
-<style scoped></style>
