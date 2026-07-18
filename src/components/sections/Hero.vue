@@ -18,7 +18,7 @@ function scrollTo(id) {
       </div>
       <div class="animate-fadeIn opacity-0" style="animation-delay: 0.4s">
         <h1 class="mb-4 text-4xl font-bold text-slate-lightest sm:text-5xl md:text-6xl lg:text-7xl">
-          Abhishek Srivastava
+          Roshif Srivastava
         </h1>
       </div>
       <div class="animate-fadeIn opacity-0" style="animation-delay: 0.6s">

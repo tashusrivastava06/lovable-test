@@ -7,7 +7,7 @@ const year = new Date().getFullYear()
     <div class="container mx-auto max-w-6xl">
       <div class="flex flex-col items-center justify-between md:flex-row">
         <div class="mb-4 text-sm text-slate md:mb-0">
-          © {{ year }} Abhishek Srivastava. All rights reserved.
+          © {{ year }} Roshif Srivastava. All rights reserved.
         </div>
 
         <div class="flex space-x-6">

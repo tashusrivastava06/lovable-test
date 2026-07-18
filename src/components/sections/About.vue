@@ -21,7 +21,7 @@ const skills = [
       <div class="grid grid-cols-1 gap-10 md:grid-cols-3">
         <div class="col-span-2 animate-slideUp opacity-0" style="animation-delay: 0.2s">
           <p class="mb-4 text-lg">
-            Hello! I'm Abhishek, a passionate Front-End Developer with over 13 years of experience in creating dynamic,
+            Hello! I'm Roshif, a passionate Front-End Developer with over 13 years of experience in creating dynamic,
             responsive, and user-focused web applications. My journey in web development began back in 2010,
             and I've been in love with crafting digital experiences ever since.
           </p>
